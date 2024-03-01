@@ -1,0 +1,16 @@
+# User config
+author: "Nikko"
+tagline: "Portfolio"
+description: "Design and illustration for science. Schematics, figures, and cartoons."
+keywords: "Science, Design, Illustration, Figures"
+email: "nikko.paulo.torres@gmail.com"
+linkedin: "https://www.linkedin.com/in/nikko-paulo-torres/"
+# twitter: "https://twitter.com/"
+github: "https://github.com/nptorres"
+
+# Site config
+baseurl: "/portfolio"
+highlighter: rouge
+sass:
+  sass_dir: assets/scss
+  style: compressed
